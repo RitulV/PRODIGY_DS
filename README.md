@@ -1,5 +1,5 @@
 # PRODIGY_DS
-This repository outlines the tasks performed by me during my internship at [Prodigy InfoTech](https://prodigyinfotech.dev/).
+This repository outlines the tasks performed by me during my internship at [Prodigy InfoTech](https://prodigyinfotech.dev/) in Data Science.
 
 ## PRODIGY_DS_01
 Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
